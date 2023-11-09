@@ -1,1 +1,1 @@
-A simple MQTT broker implementation.
+A simple MQTT client implementation.
