@@ -1,2 +1,1 @@
-## Py_template
-__I am just a Python template repository!__
+A simple MQTT broker implementation.
